@@ -1,5 +1,5 @@
-# f1-pitstop-strategy
- A pit-stop optimization strategy project on Formula One racing
+# Formula 1 Pitstop Strategy
+
 <!-- wp:paragraph -->
 <p>A Big Data Analytics project initiative on Formula One racing.</p>
 <!-- /wp:paragraph -->
